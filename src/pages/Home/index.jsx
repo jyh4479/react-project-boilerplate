@@ -1,5 +1,5 @@
 import {useRecoilState} from "recoil";
-import {countState} from "../../stores/countState.js";
+import {countState} from "@/stores/countState.js";
 
 const Home = () => {
 

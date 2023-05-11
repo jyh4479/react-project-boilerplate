@@ -1,6 +1,6 @@
 import {Link, Route, Routes} from "react-router-dom";
 
-import {Home, My} from "./pages";
+import {Home, My} from "@/pages";
 
 const App = () => {
 
@@ -20,4 +20,4 @@ const App = () => {
     )
 }
 
-export default App
+export default App;
